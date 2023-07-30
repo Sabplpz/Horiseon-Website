@@ -1,4 +1,4 @@
-# Challenge 01
+# Horiseon Website
 
 ## Description
 
@@ -14,7 +14,7 @@ Also, review the code to find all optimizations done for better accessibility.
 
 ## Credits
 
-To the creators of the Horiseon website
+To the creators of the Horiseon website.
 
 ## License
 
